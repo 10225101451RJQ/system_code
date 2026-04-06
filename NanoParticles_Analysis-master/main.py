@@ -15,7 +15,7 @@ from trace_to_source import BaseModel
 from const import isotopes_li
 
 
-path = r'E:\\sp-mac-v2\\'
+path = r'F:\data\\'
 # path = r'E:\\'
 if not os.path.exists(path):
     os.mkdir(path)
